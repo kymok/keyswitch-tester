@@ -1,0 +1,3 @@
+[submodule "thermal-printer-server"]
+	path = thermal-printer-server
+	url = https://github.com/kymok/thermal-printer-server
