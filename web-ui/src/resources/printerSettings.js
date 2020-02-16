@@ -1,0 +1,1 @@
+export const printerURL = 'http://localhost:5000/thermal-printer/v1/print';
